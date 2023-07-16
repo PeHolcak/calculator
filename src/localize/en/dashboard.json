@@ -1,0 +1,13 @@
+{
+    "history": {
+        "title": "History",
+        "recordsCount": "<0>{{historyDataLength}}</0> records"
+    },
+    "colorizeModal": {
+        "title": "Color customization",
+        "primary": "First color",
+        "secondary": "Second color",
+        "tertialy": "Third color",
+        "quaternary": "Fourth color"
+    }
+}

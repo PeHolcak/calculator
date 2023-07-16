@@ -1,0 +1,13 @@
+{
+    "history": {
+        "title": "Historie",
+        "recordsCount": "<0>{{historyDataLength}}</0> záznamů"
+    },
+    "colorizeModal": {
+        "title": "Přizpůsobení barev",
+        "primary": "První barva",
+        "secondary": "Druhá barva",
+        "tertialy": "Třetí barva",
+        "quaternary": "Čtvrtá barva"
+    }
+}
